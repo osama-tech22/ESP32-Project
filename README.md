@@ -2,6 +2,9 @@
 
 ### Here is the list of materials and tools you will need to do the project.
 * ##### ESP32 CAM: (https://a.co/d/euru0Em)
+* ##### USB Cable
+* ##### MicroSD Card
+
 ### purpose
 ### links to Documention
 ###
