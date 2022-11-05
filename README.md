@@ -24,7 +24,7 @@
 
 ### links to Documention and Videos
 
-* ##### [Watch the Video Tutorial Steps ](https://youtu.be/36p9To2hfak)
+* ##### [Watch the Video Tutorial with the Steps ](https://youtu.be/36p9To2hfak)
 
 * ##### [more detils steps](https://youtu.be/36p9To2hfak](https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/))
 
