@@ -1,6 +1,6 @@
 # ESP32-CAM Video Streaming Web Server-Project
 
-### Here is the list of materials and tools you will need to do the project.
+### Here is the list of materials you will need to do the project.
 * ##### ESP32 CAM: (https://a.co/d/euru0Em)
 * ##### USB Cable
 * ##### MicroSD Card
