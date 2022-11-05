@@ -1,4 +1,4 @@
-# ESP32-Project
+# ESP32-CAM Video Streaming Web Server-Project
 
 ### name of project
 ### purpose
