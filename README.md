@@ -11,7 +11,7 @@
 * ##### On Aditionals URL's paste this link:
 
 (https://dl.espressif.com/dl/package_esp32_index.js...)
-Inline-style:(https://content.instructables.com/ORIG/FTZ/1BHM/KEE8Z1RB/FTZ1BHMKEE8Z1RB.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=531d866e26351808cacb90570169fabe)
+
 * ##### Select the Board "Ai thinker ESP32-CAM"
 * ##### Go to Archive> Examples> ESP32> Camera> CameraWebServer.
 * ##### In the sketch uncomment the model of the ESP32 CAM you are using.
@@ -22,5 +22,5 @@ Inline-style:(https://content.instructables.com/ORIG/FTZ/1BHM/KEE8Z1RB/FTZ1BHMKE
 
 
 
-### links to Documention
-###
+### links to Documention and Videos
+* ##### [Watch the Video Tutorial](https://youtu.be/36p9To2hfak)
