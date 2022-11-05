@@ -26,8 +26,6 @@
 
 * ##### [Watch the Video Tutorial Steps ](https://youtu.be/36p9To2hfak)
 
-* ##### [more detils steps]
-(https://youtu.be/36p9To2hfak](https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/))
+* ##### [more detils steps](https://youtu.be/36p9To2hfak](https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/))
 
-* ##### [A Super Easy Security Camera With the ESP32 CAM ]
-(https://youtu.be/36p9To2hfak](https://www.instructables.com/A-Super-Easy-Security-Camera-With-the-ESP32-CAM/))
+* ##### [A Super Easy Security Camera With the ESP32 CAM ](https://youtu.be/36p9To2hfak](https://www.instructables.com/A-Super-Easy-Security-Camera-With-the-ESP32-CAM/))
